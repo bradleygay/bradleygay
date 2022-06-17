@@ -26,11 +26,12 @@ My research focuses on earth systems in the cryosphere and drivers of change in 
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 -->
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fgeocryoai%3D)
 
-![twitter](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwitter.com%2Fgeocryoai%3D?style=plastic&logo=appveyor)
+<!--![twitter](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwitter.com%2Fgeocryoai%3D?style=plastic&logo=appveyor)
+-->
 
 ![researchgate](https://img.shields.io/badge/ResearchGate-000000?style=social&logo=ResearchGate&logoColor=00CCBB)]
 
