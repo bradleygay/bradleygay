@@ -1,4 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋
+-->
 
 <!--
 **bradleygay/bradleygay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, world. 
+#### Hello, world. 👋
 
-PhD Student, George Mason University
+My name is Brad. I love lamp.
+
+Fascinated by PhD Student, George Mason University
 ABoVE SIBBORK-TTE Permafrost Modeling, NASA-GSFC | MSR EEV UTTR SMAP Analysis, NASA-LARC |  ISE Remote Sensing and Ground Cover Research Fellow, Future Earth
 
 My research focuses on earth systems in the cryosphere and drivers of change in Alaska; more specifically, these efforts seek to disentangle the causal links and feedback drivers of change attributed to permafrost carbon dynamics with earth observation data, gap modeling, feedback networks, and ecological memory.
@@ -26,7 +29,9 @@ My research focuses on earth systems in the cryosphere and drivers of change in 
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 -->
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<!--![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+-->
+![github](https://img.shields.io/github/followers/bradleygay?color=555555&label=Github&logo=Github&style=plastic)
 
 ![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fgeocryoai%3D)
 
