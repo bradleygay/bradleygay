@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 #### Hello, world. 👋
 
-> - My name is Brad, and I am a PhD Student at George Mason University, a polar research scientist at NASA, and a graduate research fellow at Future Earth.
-> - My research focuses on earth systems in the cryosphere and drivers of change in Alaska; more specifically, disentangling the causal links and feedback drivers of change attributed to permafrost carbon dynamics with earth observation data, gap modeling, feedback networks, and ecological memory.
+> - My name is Brad, and I am an arctic research scientist and PhD Candidate at George Mason University.
+> - My research focuses on earth systems in the cryosphere and drivers of change in Alaska; more specifically, disentangling the causal links and feedback drivers of change attributed to permafrost carbon dynamics with earth observation data, modeling, feedback neural networks, and ecological memory.
 <!--
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
