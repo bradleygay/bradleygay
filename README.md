@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Hello, world. 👋
+#### Hello, world.
 
 > - My name is Brad, and I am a physical research scientist and postdoctoral fellow at the Jet Propulsion Laboratory. My research focuses on cryospheric earth systems and ecological memory (i.e., disentangling the causal links and feedback drivers of change attributed to permafrost carbon dynamics with feedback neural networks). More holistically, my work seeks to bridge the gap between physical scientists and systems engineers with data-driven approaches to better inform synthesis, analysis, and discovery.
 <!--
