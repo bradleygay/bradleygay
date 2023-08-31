@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 #### Hello, world. 👋
 
-> - My name is Brad, and I am a polar research scientist and PhD Candidate at George Mason University.
-> - My research focuses on earth systems in the cryosphere and drivers of change in Alaska; more specifically, this work seeks to disentangle the causal links and feedback drivers of change attributed to permafrost carbon dynamics with feedback neural networks and ecological memory informed by in situ and flux tower measurements, modeling and reanalysis products, and earth observation data.
+> - My name is Brad, and I am a physical research scientist and postdoctoral fellow at the Jet Propulsion Laboratory.
+> - My research focuses on cryospheric earth systems and ecological memory (i.e., disentangling the causal links and feedback drivers of change attributed to permafrost carbon dynamics with feedback neural networks). More holistically, my work seeks to bridge the gap between physical scientists and systems engineers with data-driven approaches to better inform synthesis, analysis, and discovery.
 <!--
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
