@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 ### Dark greetings.
 ###
 > 🛰️ _My name is Brad, and I am a NASA Postdoctoral Program (NPP) Fellow and a physical research scientist in the Carbon Cycle and Ecosystems group at the Jet Propulsion Laboratory, California Institute of Technology._
+###
+> 🧊 My research focuses on gaining a better understanding of the **permafrost carbon feedback** by decoding cryospheric earth system dynamics, disentangling the causal links and feedback drivers of change attributed to permafrost dynamics and the carbon cycle, and capturing the ecological memory of a rapidly changing landscape with in situ, remote sensing, process-basd modeling, and AI.
 ####
-> 🧊 My research focuses on gaining a better understanding of the permafrost carbon feeeback by decoding cryospheric earth system dynamics, disentangling the causal links and feedback drivers of change attributed to permafrost carbon dynamics, and capturing the ecological memory of a rapidly changing landscape with in situ, remote sensing, process-basd modeling, and AI.
-####
-> 🌎 The objective here is to expedite knowledge discovery, facilitate novel instrument development, and fulfill and deliver mission-critical utility from Circumarctic multimodal applications.  disentangle the causal links and feedback drivers of change attributed to the dynamics of the permafrost carbob continuum with feedback neural networks). More holistically, my work seeks to bridge the gap between physical scientists and systems engineers with data-driven approaches to better inform synthesis, analysis, and discovery.
+> 🌎 The objective here is to expedite knowledge discovery, facilitate novel instrument development, and fulfill and deliver mission-critical utility from Circumarctic multimodal applications. More holistically, my work seeks to bridge the gap between physical scientists and systems engineers with data-driven approaches to better inform synthesis, analysis, and discovery.
 ###
 > Collaboration opportunities and research inquiries are always welcome!
 <!--
