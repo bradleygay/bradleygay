@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ####
 > 🌎 The objective here is to expedite knowledge discovery, facilitate novel instrument development, and fulfill and deliver mission-critical utility from Circumarctic multimodal applications. More holistically, my work seeks to bridge the gap between physical scientists and systems engineers with data-driven approaches to better inform synthesis, analysis, and discovery.
 ###
-> Collaboration opportunities and research inquiries are always welcome!
+> _Collaboration opportunities and research inquiries are always welcome!_
 <!--
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
