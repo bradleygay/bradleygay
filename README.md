@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Dark greetings.
 ### 🌎🛰️🧊
 ####
-> My name is Brad, and I am a NASA Postdoctoral Program (NPP) Fellow and a physical research scientist in the Carbon Cycle and Ecosystems group at the Jet Propulsion Laboratory, California Institute of Technology.
+** My name is Brad, and I am a NASA Postdoctoral Program (NPP) Fellow and a physical research scientist in the Carbon Cycle and Ecosystems group at the Jet Propulsion Laboratory, California Institute of Technology.**
 ####
 > My research focuses on gaining a better understanding of the permafrost carbon feeeback by decoding cryospheric earth system dynamics, disentangling the causal links and feedback drivers of change attributed to permafrost carbon dynamics, and capturing the ecological memory of a rapidly changing landscape with in situ, remote sensing, process-basd modeling, and AI.
 ####
