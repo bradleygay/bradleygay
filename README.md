@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Dark greetings.
-#### 🌎🛰️🧊
+### 🌎🛰️🧊
 > - I'm Brad, and I am a NASA Postdoctoral Program (NPP) Fellow and a physical research scientist in the Carbon Cycle and Ecosystems group at the Jet Propulsion Laboratory, California Institute of Technology.
     > My research focuses on gaining a better understanding of the permafrost carbon feeeback by decoding cryospheric earth system dynamics, disentangling the causal links and feedback drivers of change attributed to permafrost carbon dynamics, and capturing the ecological memory of a rapidly changing landscape with in situ, remote sensing, process-basd modeling, and AI.
     > The objective here is to expedite knowledge discovery, facilitate novel instrument development, and fulfill and deliver mission-critical utility from Circumarctic multimodal applications.  disentangle the causal links and feedback drivers of change attributed to the dynamics of the permafrost carbob continuum with feedback neural networks).
