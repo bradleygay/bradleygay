@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 #### Dark greetings.
 ###
-> 🛰️ _My name is Brad, and I am an Assistant Research Scientist at NASA Goddard Space Flight Center and previously a NASA Postdoctoral Program (NPP) Fellow in the Carbon Cycle and Ecosystems group at the Jet Propulsion Laboratory, California Institute of Technology._
+> 🛰️ _My name is Bradley, and I am an Assistant Research Scientist at NASA Goddard Space Flight Center and previously a NASA Postdoctoral Program (NPP) Fellow in the Carbon Cycle and Ecosystems group at the Jet Propulsion Laboratory, California Institute of Technology._
 ###
 > 🧊 My research focuses on gaining a better understanding of the **permafrost carbon feedback** by decoding cryospheric earth system dynamics, disentangling the causal links and feedback drivers of change attributed to permafrost dynamics and the carbon cycle, and capturing the ecological memory of a rapidly changing landscape with in situ, remote sensing, process-basd modeling, and AI.
 ####
